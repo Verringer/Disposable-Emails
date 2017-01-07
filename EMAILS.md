@@ -1,4 +1,4 @@
-# List of emails to automatically ban to prevent users signing up with disposable emails from my time as a community administrator.
+# List of Disposable Emails
 
 *@0-mail.com
 *@0815.ru
