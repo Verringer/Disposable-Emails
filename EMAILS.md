@@ -293,3 +293,5 @@
 *@yopmail.net
 *@youmail.ga
 *@zrov.com
+*@tverya.com
+*@ppetw.com
